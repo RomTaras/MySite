@@ -17,3 +17,27 @@ body {
 	height: 15%;
 	width: 100%;
 }
+.Links a{
+	text-align: center;
+	text-decoration: none;
+	color: #FF7F11;
+	font-size: 18px;
+	border: 1px;
+	border-style: solid;
+	border-color: #FF7F11;
+	padding: 8px 15px 8px 15px;
+}
+.Links a:hover {
+	border-color: white;
+	color: white;
+}
+#t1 {
+	position: absolute;
+	left: 5%;
+	top: 75%;
+}
+#t2 {
+	position: absolute;
+	left: 85%;
+	top: 75%;
+}
