@@ -41,3 +41,16 @@ body {
 	left: 85%;
 	top: 75%;
 }
+#icons {
+	position: absolute;
+	top: 76%;
+	left: 46%;
+	color: white;
+	font-size: 20px;
+}
+#icons a {
+	color: white;
+}
+#icons a:hover {
+	color: #F6511D;
+}
