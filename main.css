@@ -54,3 +54,9 @@ body {
 #icons a:hover {
 	color: #F6511D;
 }
+.log ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
