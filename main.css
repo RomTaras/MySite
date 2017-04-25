@@ -20,11 +20,11 @@ body {
 .Links a{
 	text-align: center;
 	text-decoration: none;
-	color: #FF7F11;
+	color: #F6511D;
 	font-size: 18px;
 	border: 1px;
-	border-style: solid;
-	border-color: #FF7F11;
+	border-style:solid;
+	border-color: #F6511D;
 	padding: 8px 15px 8px 15px;
 }
 .Links a:hover {
